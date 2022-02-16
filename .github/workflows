@@ -18,7 +18,7 @@ jobs:
   paper:
     runs-on: ubuntu-latest
     env:
-      DIR: 
+      DIR: draft
       FILE: TestingStuff
     steps:
       - name: Checkout
